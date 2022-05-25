@@ -4,4 +4,4 @@ feito com base no manual maker do manual do mundo (https://www.youtube.com/watch
 
 # Imagem do projeto
 
-<img align="center" alt="imagem do esquema do projeto" src"imagem do projeto.png" >
+<img align="center" alt="imagem do esquema do projeto" src="imagem do projeto.png" >
